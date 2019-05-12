@@ -1,6 +1,5 @@
 # Coursera_ibm_final_capstone
-Coursera Capstone
-Data Science Specialization
-Applied Data Science Course
-Applied Data Science Coursera Capstone Project
-
+# Coursera Capstone
+## IBM Data Science Specialization
+## Applied Data Science Coursera Capstone Project
+This contains all the files for the coursera capstone assignment
